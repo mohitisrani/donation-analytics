@@ -6,7 +6,7 @@ The Problem statement can be found [here](https://github.com/InsightDataScience/
 
 This is the documentation on how to run the donation analytics. The backend program is written with `Python v3.6`.
 
-Fundatmental scientific computing [package](#install) will be required to install if not already in the system. Other basic modules this program uses are [re](https://docs.python.org/3.4/library/re.html), [sys](https://docs.python.org/2/library/sys.html)and [datetime](https://docs.python.org/2/library/datetime.html)
+Fundatmental scientific computing [package](#install) will be required to install if not already in the system. Other basic modules this program uses are [re](https://docs.python.org/3.4/library/re.html), [sys](https://docs.python.org/2/library/sys.html) and [datetime](https://docs.python.org/2/library/datetime.html)
 
 
 ## Table of Contents
